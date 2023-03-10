@@ -1,2 +1,0 @@
-# testsIA
-Pruebas de IAs
